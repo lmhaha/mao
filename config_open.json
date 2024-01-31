@@ -6,20 +6,20 @@
         "name": "🐾丨豆瓣【👁️‍🗨️】",
         "type": 3,
         "indexs": 1,
-        "api": "./douban_open.js"
+        "api": "assets://js/douban_open.js"
    },  
     {
         "key": "泥巴",
         "name": "🐾丨泥巴【🚀】",
         "type": 3,
-        "api": "./nivod_open.js",
+        "api": "assets://js/nivod_open.js",
         "ext": "做爱"
     },
     {
         "key": "仙女",
         "name": "🐾丨仙女【🚀】",
         "type": 3,
-        "api": "./18av_open.js"
+        "api": "assets://js/18av_open.js"
     },
     {
          "key": "155资源",
